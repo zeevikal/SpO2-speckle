@@ -10,6 +10,17 @@ techniques, based on convolutional neural networks, can offer a novel approach t
 saturation levels (SpO2) of subjects. Early stages of hypoxia can rapidly progress into pneumonia and death, and,
 therefore, early and remote detection of low blood oxygen saturation levels can save lives.
 
+### Data recording - speckle pattern and oximeter
+#### low level oxygen level
+<video width="320" height="240" controls>
+  <source src="low_oxygen_level.mp4" type="video/mp4">
+</video>
+
+#### normal level oxygen level
+<video width="320" height="240" controls>
+  <source src="normal_oxygen_level.mp4.mp4" type="video/mp4">
+</video>
+
 ### Model
 ![model architecture](model.png)
 
