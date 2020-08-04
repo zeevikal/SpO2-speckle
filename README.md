@@ -12,14 +12,10 @@ therefore, early and remote detection of low blood oxygen saturation levels can 
 
 ### Data recording - speckle pattern and oximeter
 #### low level oxygen level
-<video width="320" height="240" controls>
-  <source src="low_oxygen_level.mp4" type="video/mp4">
-</video>
+[![](low_oxygen_level.mp4)](low_oxygen_level.mp4)
 
 #### normal level oxygen level
-<video width="320" height="240" controls>
-  <source src="normal_oxygen_level.mp4" type="video/mp4">
-</video>
+[![](normal_oxygen_level.mp4)](normal_oxygen_level.mp4)
 
 ### Model
 ![model architecture](model.png)
