@@ -18,7 +18,7 @@ therefore, early and remote detection of low blood oxygen saturation levels can 
 ![normal level oxygen level saturation oximeter and speckle pattern](figures/normal_oxygen_level_both_gif.gif)
 
 ### Model
-![model architecture](model.png)
+![model architecture](figures/model.png)
 
 ### Results on test-set
 ![Micro-saccades movement correlation calculation](figures/results1.png)
